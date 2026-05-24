@@ -6,3 +6,9 @@ Mansoor H Mustapha
 ## Project Title:
 Project Management System
 
+## Name
+Ibrahim P Juma
+
+## Project Tittle
+ 
+ATM management system
